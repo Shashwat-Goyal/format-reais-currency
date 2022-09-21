@@ -1,0 +1,25 @@
+{
+  "name": "format-reais-currency",
+  "version": "1.0.0",
+  "description": "A small library to format US dollar price into reais currency",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shashwat-Goyal/format-reais-currency.git"
+  },
+  "keywords": [
+    "currency",
+    "formatter",
+    "currency-formatter",
+    "reais-currency-formatter"
+  ],
+  "author": "Shashwat Goyal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shashwat-Goyal/format-reais-currency/issues"
+  },
+  "homepage": "https://github.com/Shashwat-Goyal/format-reais-currency#readme"
+}
